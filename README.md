@@ -1,5 +1,5 @@
 # Mini Curso Python Flask e MySQL
-# Prof. Genilson Messias
+# Prof. Genilson Mess Souza
 # instalar dependencias
 
 - pip install flask
